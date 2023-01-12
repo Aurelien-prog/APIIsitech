@@ -3,6 +3,6 @@
 ## DataBase :
 
 ### users TABLE
-| Id | Name | Surname |  Type   | Email | Password |
+| Id | name | surname |  type   | email | password |
 |-----|-----|-----|-----|-----|-----|
 |      |      |      |      |      |      |
